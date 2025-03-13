@@ -7,6 +7,6 @@ body {
 header {
   background-color: Red;
   font-color: Black;
-  margin: 0;
+  margin: 10px;
   margin-color: Red;
 }
