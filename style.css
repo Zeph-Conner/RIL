@@ -7,6 +7,6 @@ header {
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
-  background-color: Red;
+  font-background-color: Red;
   font-color: Black;
 }
