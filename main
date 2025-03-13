@@ -1,11 +1,13 @@
 <html>
+<head>
+<script src="library.js"></script> <!-- include a library of JavaScript code -->
+</head>
 <body>
-
-  <h1>Java</h1>
-
-  <script> 
-    document.write("Ramesh Investments Limited</p>");
-  </script>
-
+<p>This is a paragraph of HTML</p>
+<script>
+// And this is some client-side JavaScript code
+// literally embedded within the HTML file
+</script>
+<p>Here is more HTML.</p>
 </body>
 </html>
