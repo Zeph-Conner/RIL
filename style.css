@@ -1,12 +1,12 @@
+header {
+  background-color: Yellow;
+  font-color: Black;
+  text-align: center;
+}
+  
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
   background-color: Red;
   font-color: Black;
-}
-  
-header {
-  background-color: Yellow;
-  font-color: Black;
-  text-align: center;
 }
