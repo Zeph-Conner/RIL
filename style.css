@@ -1,13 +1,14 @@
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
-  background-color: 7A74A1;
-  font-color: BB9F9F;
+  background-color: Yellow;
+  font-color: Black;
 }
   
 header {
-  background-color: Red;
-  font-color: 7A74A1;
+  background-color: Yellow;
+  font-color: Black;
   padding: 15px;
   margin: 0;
+  margin-color: Red;
 }
