@@ -1,2 +1,12 @@
-</header>
-document.write = Ramesh Investments Limited
+<!DOCTYPE html>
+<html>
+<body>
+
+  <h1>Java</h1>
+
+  <script> 
+    document.write("Ramesh Investments Limited</p>");
+  </script>
+
+</body>
+</html>
