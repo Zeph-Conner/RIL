@@ -1,4 +1,6 @@
-<html>
+html {
+
+}
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
@@ -12,4 +14,3 @@ header {
   margin: 0;
   margin-color: Red;
 }
-</html>
