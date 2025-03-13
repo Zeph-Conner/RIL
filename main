@@ -1,13 +1,8 @@
-<html>
-<head>
-<script src="library.js"></script> <!-- include a library of JavaScript code -->
+<!DOCTYPE html>
+<html lang ="en">
 </head>
 <body>
-<p>This is a paragraph of HTML</p>
-<script>
-// And this is some client-side JavaScript code
-// literally embedded within the HTML file
-</script>
-<p>Here is more HTML.</p>
+  <header>
+    <h1>Ramesh Investments Limited</h1>
 </body>
 </html>
