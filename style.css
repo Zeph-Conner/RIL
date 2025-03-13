@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: Yellow;
+  font-color: Black;
+}
+  
+header {
+  background-color: Yellow;
+  font-color: Black;
+  margin: 0;
+  margin-color: Red;
+}
