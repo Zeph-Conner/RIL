@@ -6,3 +6,6 @@ header,body {
 }
 
 br {
+  text-align: center;
+  line-height: 1;
+}
