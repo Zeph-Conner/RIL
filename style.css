@@ -1,9 +1,11 @@
 header,body {
-  background-color: White;
-  font-background-color: Yellow;
   font-color: Black;
   text-align: center;
   line-height: 1;
+}
+header,body {
+  background-color: Yellow;
+  opacity: 0.5;
 }
 
 br {
