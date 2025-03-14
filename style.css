@@ -8,7 +8,7 @@ locations and hours,title {
   font-color: black;
 }
 
-.h&l {
+.handl {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
