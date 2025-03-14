@@ -8,7 +8,12 @@ locations and hours,title {
   font-color: black;
 }
 
-locactions and hours {
-  font-color: black;
-  text-align: left;
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.locations-and-hours {
+  width: 45%;
 }
