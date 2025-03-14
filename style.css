@@ -4,11 +4,6 @@ header {
   line-height: 1;
 }
 
-br {
-  text-align: center;
-  line-height: 1;
-}
-
 hours,locations,title {
   background-color: yellow;
   font-color: black;
