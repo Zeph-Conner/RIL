@@ -1,9 +1,9 @@
-title {
+.title {
   font-color: Black;
   text-align: center;
 }
 
-locations and hours,title {
+.locations and hours,title {
   background-color: yellow;
   font-color: black;
 }
