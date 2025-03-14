@@ -8,15 +8,3 @@ hours,locations,title {
   background-color: yellow;
   font-color: black;
 }
-
-locations {
-  text-align: left;
-  border: 5px;
-  border-color: black;
-}
-
-hours {
-  text-align: right;
-  border: 5px;
-  border-color: black;
-}
