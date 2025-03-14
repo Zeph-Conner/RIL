@@ -1,4 +1,4 @@
-header,body {
+header {
   font-color: Black;
   text-align: center;
   line-height: 1;
@@ -14,3 +14,10 @@ hours,location,title {
   font-color: black;
 }
 
+location {
+  text-align: left;
+}
+
+hours {
+  text-align: right;
+}
