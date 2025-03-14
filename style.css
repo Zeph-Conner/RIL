@@ -5,7 +5,7 @@ header,body {
 }
 header,body {
   background-color: Yellow;
-  opacity: 0.5;
+  background-color-opacity: 0.5;
 }
 
 br {
