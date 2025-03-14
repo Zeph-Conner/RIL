@@ -9,14 +9,8 @@ br {
   line-height: 1;
 }
 
-margin {
-  color: Black;
+hours,location,title {
+  background-color: yellow;
+  font-color: black;
 }
 
-border {
-  color: Red;
-}
-
-padding {
-  color: Yellow;
-}
