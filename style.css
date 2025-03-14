@@ -4,7 +4,7 @@ title {
   line-height: 1;
 }
 
-hours,locations,title {
+locations and hours,title {
   background-color: yellow;
   font-color: black;
 }
