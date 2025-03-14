@@ -9,12 +9,12 @@ br {
   line-height: 1;
 }
 
-hours,location,title {
+hours,locations,title {
   background-color: yellow;
   font-color: black;
 }
 
-location {
+locations {
   text-align: left;
 }
 
