@@ -16,12 +16,12 @@ hours,locations,title {
 
 locations {
   text-align: left;
-border: 5px;
-border-color: black;
+  border: 5px;
+  border-color: black;
 }
 
 hours {
   text-align: right;
-border: 5px;
-border-color: black;
+  border: 5px;
+  border-color: black;
 }
