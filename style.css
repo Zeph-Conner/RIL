@@ -2,8 +2,7 @@ header {
   background-color: Yellow;
   font-color: Black;
   text-align: center;
-  margin: 0;
-  padding: 0;
+  line-height: 1;
 }
   
 body {
@@ -11,6 +10,5 @@ body {
   text-align: center;
   font-background-color: Red;
   font-color: Black;
-  margin: 0;
-  padding: 0;
+  line-height: 1;
 }
