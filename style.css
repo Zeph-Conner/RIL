@@ -1,14 +1,6 @@
-header {
+header,body {
   background-color: Yellow;
   font-color: Black;
   text-align: center;
   line-height: 1;
-}
-  
-body {
-  font-family: Verdana, sans-serif;
-  text-align: center;
-  font-background-color: Red;
-  font-color: Black;
-  line-height: 0.5;
 }
