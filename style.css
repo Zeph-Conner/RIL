@@ -7,16 +7,13 @@ html {
   text-align: center;
   font-color: #0d0c0c;
   border-color: #0d0c0c;
+  border-style: solid;
+  width: 35%;
+  border-width: 5px;
 }
 
 .handl {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-}
-
-.locations-and-hours,.title {
-  border-style: solid;
-  width: 35%;
-  border-width: 5px;
 }
