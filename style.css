@@ -12,6 +12,7 @@
 }
 
 .locations-and-hours {
+  border-style: solid;
   width: 35%;
   border-width: 5px;
 }
