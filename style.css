@@ -5,6 +5,7 @@
 
 .locations-and-hours,.title {
   background-color: yellow;
+  text-align: center;
   font-color: #0d0c0c;
   border-color: #0d0c0c;
 }
