@@ -15,7 +15,7 @@ html {
     align-items: flex-start;
 }
 
-.locations-and-hours {
+.locations-and-hours,.title {
   border-style: solid;
   width: 35%;
   border-width: 5px;
