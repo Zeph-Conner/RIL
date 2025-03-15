@@ -6,13 +6,13 @@
 .locations-and-hours,.title {
   background-color: yellow;
   font-color: black;
+  border-color: black;
 }
 
 .handl {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-  border: 2%
 }
 
 .locations-and-hours {
