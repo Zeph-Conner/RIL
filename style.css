@@ -2,9 +2,11 @@ html {
   background-color: yellow;
 }
 
+.title {
+  text-align: center;
+
 .locations-and-hours,.title {
   background-color: yellow;
-  text-align: center;
   font-color: #0d0c0c;
   border-color: #0d0c0c;
   border-style: solid;
