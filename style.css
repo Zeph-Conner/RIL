@@ -2,17 +2,10 @@ html {
   background-color: yellow;
 }
 
-.title {
-  text-align: center;
-  font-color: black;
-  border-color: black;
-  border-style: solid;
-  border-width: 5px;
-}
-
-.locations-and-hours {
+.locations-and-hours,.title {
   background-color: yellow;
   font-color: black;
+  text-align: center;
   border-color: black;
   border-style: solid;
   width: 35%;
