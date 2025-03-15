@@ -10,6 +10,7 @@ html {
   border-style: solid;
   width: 35%;
   border-width: 5px;
+  line-height: 3px;
 }
 
 .handl {
