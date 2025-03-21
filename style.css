@@ -2,7 +2,7 @@ html {
   background-color: red;
 }
 
-.locations-and-hours,.title {
+.title {
   background-color: yellow;
   font-color: black;
   text-align: center;
@@ -10,10 +10,4 @@ html {
   border-style: solid;
   width: 35%;
   border-width: 5px;
-}
-
-.handl {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
 }
