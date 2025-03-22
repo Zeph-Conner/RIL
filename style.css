@@ -2,7 +2,7 @@ html {
   background-color: red;
 }
 
-.title {
+.yasawa,.title {
   background-color: yellow;
   font-color: black;
   text-align: center;
@@ -11,6 +11,3 @@ html {
   width: 35%;
   border-width: 5px;
 }
-
-.yasawa {
-  line-height: 15px;
